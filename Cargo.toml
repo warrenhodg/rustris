@@ -1,6 +1,6 @@
 [package]
 name = "rustris"
-version = "1.0.1"
+version = "1.0.2"
 authors = ["Warren Hodgkinson <warren.hodgkinson@gmail.com>"]
 edition = "2018"
 
